@@ -1,1 +1,7 @@
-
+{
+  "customer_name": ["name", "cust name", "client", "customer"],
+  "email": ["email id", "mail", "e-mail"],
+  "phone": ["mobile", "contact", "phone number"],
+  "date_of_birth": ["dob", "birth date"],
+  "amount": ["amt", "total", "value", "price"]
+}
